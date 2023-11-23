@@ -6,4 +6,4 @@ Test 2
 ![img_1.png](img_1.png)
 
 ### code: <a>  </a>
-<i>made by Anna Davydenko, CS32</i>
+<i>made by Anna Davydenko CS32</i>
