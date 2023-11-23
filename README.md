@@ -5,5 +5,5 @@ Test 1
 Test 2
 ![img_1.png](img_1.png)
 
-<a> code href= https://github.com/iitsann/mpp_university/blob/cr2/control_task3.rb </a>
+ code https://github.com/iitsann/mpp_university/blob/cr2/control_task3.rb 
 <i>made by Anna Davydenko CS32</i>
